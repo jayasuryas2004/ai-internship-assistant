@@ -1,8 +1,0 @@
-# Rasa models and cache
-rasa-bot/models/
-rasa-bot/.rasa/
-rasa-bot/results/
-__pycache__/
-
-# VS Code
-.vscode/
